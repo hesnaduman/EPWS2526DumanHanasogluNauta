@@ -1,1 +1,43 @@
 # EPWS2526DumanHanasogluNauta
+# Expose´ _ReSort_
+## Einleitung
+Die richtige Trennung von Altglas ist ein wesentlicher Bestandteil der deutschen Kreislaufwirtschaft. Durch konsequentes Recycling können wertvolle Rohstoffe eingespart und der Energieverbrauch deutlich reduziert werden. Entscheidend dafür ist die richtige Sortierung nach Glasfarben also; Weiß-, Braun- und Grünglas, da bereits kleine Fehlwürfe die Qualität einer ganzen Glasschmelze beeinträchtigen können.
+Trotz des stets wachsenden Umweltbewusstseins in der Bevölkerung, kommt es immer wieder zu Unsicherheiten und Fehlwürfen, insbesondere bei Gläsern, deren Farbe schwer zuzuordnen ist. Hier setzt das Projekt ReSort an: Es soll ein interaktives System entstehen, das den Nutzern bei der richtigen Entsorgung unterstützt. Der Fokus liegt auf Barrierefreiheit für Menschen mit Farbsehschwächen und auf einer bewussten, und nachvollziehbaren Vermittlung von Nachhaltigkeit im Alltag.
+## Darstellung des Problemraums
+In Deutschland werden laut Umweltbundesamt (2024) jährlich rund 2,8 Millionen Tonnen Altglas gesammelt und wiederverwertet. Doch trotz dieser hohen Zahl bestehen weiterhin Herausforderungen bei der korrekten Trennung. Fehlwürfe führen zu Verunreinigungen, erhöhen den Energiebedarf und mindern die Qualität des recycelten Materials. Zusätzlich erschweren regionale Unterschiede bei den Entsorgungsrichtlinien den Nutzern oft die richtige Zuordnung.
+Ein besonderes Problem betrifft Menschen mit Farbsehschwächen. Rund 8 Prozent der Männer und 0,4 Prozent der Frauen in Deutschland können bestimmte Farben, vorallem Grün- und Brauntöne, nicht sicher unterscheiden. Betroffenen wird der Prozess der richtigen Glasentsorgung somit erschwert. 
+## Zielsetzung und Vision
+ReSort verfolgt das Ziel, ein barrierefreies, interaktives System zu entwickeln, welches den Nutzer dabei unterstützt, Altglas korrekt zu trennen. Durch die Analyse der Farbe und der Oberflächenstruktur eines Glasobjekts soll das System eine Empfehlung zur passenden Entsorgung geben. Damit trägt ReSort zu einer höheren Recyclingqualität und einem bewussteren Umgang mit Ressourcen bei.
+Zugleich zeigt das Projekt, wie digitale Technologien verantwortungsvoll eingesetzt werden können. Anstelle komplexer und schwer nachvollziehbarer KI-Modelle, nutzt ReSort ein regelbasiertes Verfahren, das nachvollziehbar bleibt und sich damit auch für didaktische Zwecke eignet. So entsteht eine Anwendung, die sowohl funktional als auch lehrreich ist.
+## Zielgruppe
+Die Hauptzielgruppe von ReSort ist Privatpersonen, die regelmäßig Glas entsorgen. Besonders profitieren Menschen mit Farbsehschwächen die Schwierigkeiten haben, Glasfarben sicher zu unterscheiden. Das System ermöglicht digitale Barrierefreiheit und ist im Alltag zunehmend nutzbar. Ebenfalls sorgt die einfache Bedienbarkeit dafür, dass das System für alle Interessenten nutzbar ist.
+Darüber hinaus richtet sich ReSort an umweltbewusste Nutzer, welche ihr Recyclingverhalten verbessern möchten, sowie ggf. an Bildungseinrichtungen die das System als Lern- oder Informationsplattform einsetzen könnten. ReSort ist daher auch für Nutzer wichtig, welche bisher noch keine Berührungspunkte mit dem Thema Altglas Sortierung hatten und kann somit auch als Lehrmittel für diese Nutzergruppe verwendet werden. Dies ist besonders wichtig, um das Thema Glasrecycling weiter zu verbreiten und dessen Relevanz zu verdeutlichen.
+## Aktueller Forschungsstand
+In der Umweltinformatik gewinnt die bildbasierte Materialerkennung zunehmend an Bedeutung. Während in der Industrie bereits KI-Systeme zur automatischen Sortierung von Glas und anderen Stoffen eingesetzt werden, fehlen bislang leicht zugängliche und nachvollziehbare Ansätze für den privaten Gebrauch.
+Studien zeigen, dass die Recyclingquote von Glas in Deutschland zwar hoch ist, jedoch noch ausbaufähig wäre, da Fehlwürfe weiterhin ein Problem darstellen (UBA, 2024; Statista, 2023). Gleichzeitig weisen Forschungen zur digitalen Barrierefreiheit darauf hin, dass rein farbcodierte Systeme viele Menschen ausschließen (Gesund.bund.de, 2023; Yang et al., 2024).
+ReSort überträgt moderne Ansätze der Bildverarbeitung in einen zugänglichen, barrierefreien Kontext und schließt damit die Lücke zwischen industrieller Technologie und praktischer Umweltbildung.
+## Gesellschaftliche, wissenschaftliche und wirtschaftliche Relevanz
+Gesellschaftlich trägt das Projekt dazu bei, Nachhaltigkeit im Alltag umsetzbar zu machen und Barrieren abzubauen. Menschen mit Farbsehschwächen können durch ReSort selbstständig am Recyclingprozess teilnehmen. Gleichzeitig sensibilisiert das System für den bewussten Umgang mit Ressourcen. Damit leistet das Projekt einen direkten Beitrag zur Erreichung mehrerer UN-Nachhaltigkeitsziele (Sustainable Development Goals, SDGs) – insbesondere zu Ziel 10: Weniger Ungleichheiten, durch die Förderung digitaler Barrierefreiheit und sozialer Teilhabe, Ziel 12: Nachhaltige Konsum- und Produktionsmuster, durch die Verbesserung der Mülltrennung und die Stärkung ökologischen Bewusstseins, sowie Ziel 13: Maßnahmen zum Klimaschutz, durch die indirekte Reduktion von Energie- und Ressourcenverbrauch im Recyclingprozess.
+Wissenschaftlich bietet ReSort ein praktisches Beispiel für erklärbare, regelbasierte Systeme in der Bildverarbeitung. Es kann in der Medieninformatik-Lehre eingesetzt werden, um Studierenden die Schnittstelle von Technik, sowie Umwelt und sozialer Verantwortung näherzubringen.
+## Alleinstellungsmerkmale
+In einigen Städten werden bereits digitale Entsorgungs-Apps wie MyMüll oder AWB Köln genutzt. Diese Anwendungen bieten jedoch meist nur Textinformationen, Abholkalender oder Standorthinweise aber keine visuelle Unterstützung für die Mülltrennung bzw. Glastrennung. ReSort deckt diese Lücke ab. Das System arbeitet bewusst ohne KI und setzt stattdessen auf eine regelbasierte und nachvollziehbare Bildanalyse. Dadurch bleibt das Vorgehen transparent und ressourcenschonend.
+## Aufbau, Methodik und technische Umsetzung
+Das System wird als modularer Prototyp entwickelt, der Glasobjekte visuell analysiert. Kern ist eine Bildverarbeitungseinheit, die Fotos oder Kameraaufnahmen auswertet. Dafür werden die Bilddaten in den HSV-Farbraum (Hue, Saturation, Value) umgerechnet, um die dominante Glasfarbe zu erkennen. Über definierte Schwellenwerte erfolgt die Zuordnung zur passenden Kategorie. Zusätzlich werden Textur- und Helligkeitsmerkmale ausgewertet, um Rückschlüsse auf die Oberflächenbeschaffenheit zu ziehen.
+Das System soll eine simple und benutzerfreundliche, sowie barrierearme Oberfläche bieten, welche in Form einer App zu nutzen ist.
+Der Entwicklungsprozess orientiert sich an einem iterativen Vorgehen. Das System wird somit schrittweise geplant und umgesetzt:
+1.	Analysephase: Recherche, Untersuchung bestehender Systeme und Definition der Anforderungen.
+2.	Konzeptionsphase: Entwicklung des Funktionskonzepts und Gestaltung der Benutzeroberfläche.
+3.	Prototyping: Umsetzung der Farb- und Oberflächenerkennung in einer ersten lauffähigen Version.
+4.	Evaluation: Durchführung von Tests mit unterschiedlichen Glasarten und Nutzergruppen zur Optimierung der Ergebnisse.
+5.	Reflexion: Auswertung der Resultate im Hinblick auf Nachhaltigkeit, Barrierefreiheit und Benutzerfreundlichkeit.
+## Erwartete Ergebnisse
+Ziel ist es, am Ende des Projekts einen funktionsfähigen Prototyp zu entwickeln, welcher Glasobjekte anhand ihrer Farbe und Oberfläche erkennt, und eine klare Entsorgungsempfehlung gibt. Die Ergebnisse sollen leicht verständlich und barrierefrei dargestellt werden. 
+Ebenfalls wird dieser Prototyp verschiedenen Testern bzw. Nutzern zur Verfügung gestellt und deren Nutzererfahrungen dokumentiert. Anhand dieser Daten wird dann eine Evaluation durchgeführt, um dann abgleichen zu können, ob die Zielsetzung erfüllt wurde.
+## Quellenverzeichnis
+
+- **Umweltbundesamt.** (2024). *Abfallwirtschaft in Deutschland – Altglasverwertung.* Dessau-Roßlau: Umweltbundesamt.  
+- **Gesundheitsportal Bund.** (2023). *Farbenblindheit und Farbsinnstörungen.* Berlin: Bundesministerium für Gesundheit.  
+- **Farbsehschwaeche.de.** (2024). *Wie häufig sind Farbfehlsichtigkeiten?* [https://www.farbsehschwaeche.de](https://www.farbsehschwaeche.de)  
+- **Yang, Z. et al.** (2024). *Dyschromatopsia: A comprehensive analysis of mechanisms and treatments for color vision deficiency.* *Frontiers in Neuroscience*, 18:1265630.  
+- **Optica Journal.** (2012). *Worldwide prevalence of red-green color vision deficiency.* [https://opg.optica.org/oe/abstract.cfm?uri=josaa-29-3-313](https://opg.optica.org/oe/abstract.cfm?uri=josaa-29-3-313)  
+- **Statista.** (2023). *Recyclingquote von Glas in Deutschland.* Hamburg: Statista GmbH.
